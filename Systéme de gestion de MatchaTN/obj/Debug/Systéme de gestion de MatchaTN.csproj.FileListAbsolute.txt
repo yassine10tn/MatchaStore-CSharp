@@ -1,0 +1,58 @@
+C:\Users\Yassine\Desktop\pfa\C# 2\Systéme de gestion de MatchaTN\Systéme de gestion de MatchaTN\bin\Debug\Systéme de gestion de MatchaTN.exe.config
+C:\Users\Yassine\Desktop\pfa\C# 2\Systéme de gestion de MatchaTN\Systéme de gestion de MatchaTN\bin\Debug\Systéme de gestion de MatchaTN.exe
+C:\Users\Yassine\Desktop\pfa\C# 2\Systéme de gestion de MatchaTN\Systéme de gestion de MatchaTN\bin\Debug\Systéme de gestion de MatchaTN.pdb
+C:\Users\Yassine\Desktop\pfa\C# 2\Systéme de gestion de MatchaTN\Systéme de gestion de MatchaTN\obj\Debug\Systéme de gestion de MatchaTN.csproj.AssemblyReference.cache
+C:\Users\Yassine\Desktop\pfa\C# 2\Systéme de gestion de MatchaTN\Systéme de gestion de MatchaTN\obj\Debug\Systéme_de_gestion_de_MatchaTN.Connexion.resources
+C:\Users\Yassine\Desktop\pfa\C# 2\Systéme de gestion de MatchaTN\Systéme de gestion de MatchaTN\obj\Debug\Systéme_de_gestion_de_MatchaTN.Properties.Resources.resources
+C:\Users\Yassine\Desktop\pfa\C# 2\Systéme de gestion de MatchaTN\Systéme de gestion de MatchaTN\obj\Debug\Systéme de gestion de MatchaTN.csproj.GenerateResource.cache
+C:\Users\Yassine\Desktop\pfa\C# 2\Systéme de gestion de MatchaTN\Systéme de gestion de MatchaTN\obj\Debug\Systéme de gestion de MatchaTN.csproj.CoreCompileInputs.cache
+C:\Users\Yassine\Desktop\pfa\C# 2\Systéme de gestion de MatchaTN\Systéme de gestion de MatchaTN\obj\Debug\Systéme de gestion de MatchaTN.exe
+C:\Users\Yassine\Desktop\pfa\C# 2\Systéme de gestion de MatchaTN\Systéme de gestion de MatchaTN\obj\Debug\Systéme de gestion de MatchaTN.pdb
+C:\Users\Yassine\Desktop\pfa\C# 2\Systéme de gestion de MatchaTN\Systéme de gestion de MatchaTN\obj\Debug\Systéme_de_gestion_de_MatchaTN.Articles.resources
+C:\Users\Yassine\Desktop\pfa\C# 2\Systéme de gestion de MatchaTN\Systéme de gestion de MatchaTN\obj\Debug\Systéme_de_gestion_de_MatchaTN.Fournisseurs.resources
+C:\Users\Yassine\Desktop\pfa\C# 2\Systéme de gestion de MatchaTN\Systéme de gestion de MatchaTN\obj\Debug\Systéme_de_gestion_de_MatchaTN.livreur.resources
+C:\Users\Yassine\Desktop\pfa\C# 2\Systéme de gestion de MatchaTN\Systéme de gestion de MatchaTN\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Yassine\Desktop\pfa\C# 2\Systéme de gestion de MatchaTN\Systéme de gestion de MatchaTN\bin\Debug\Google.Protobuf.dll
+C:\Users\Yassine\Desktop\pfa\C# 2\Systéme de gestion de MatchaTN\Systéme de gestion de MatchaTN\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Yassine\Desktop\pfa\C# 2\Systéme de gestion de MatchaTN\Systéme de gestion de MatchaTN\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Yassine\Desktop\pfa\C# 2\Systéme de gestion de MatchaTN\Systéme de gestion de MatchaTN\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Yassine\Desktop\pfa\C# 2\Systéme de gestion de MatchaTN\Systéme de gestion de MatchaTN\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Yassine\Desktop\pfa\C# 2\Systéme de gestion de MatchaTN\Systéme de gestion de MatchaTN\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Yassine\Desktop\pfa\C# 2\Systéme de gestion de MatchaTN\Systéme de gestion de MatchaTN\bin\Debug\MySql.Data.dll
+C:\Users\Yassine\Desktop\pfa\C# 2\Systéme de gestion de MatchaTN\Systéme de gestion de MatchaTN\bin\Debug\MySqlConnector.dll
+C:\Users\Yassine\Desktop\pfa\C# 2\Systéme de gestion de MatchaTN\Systéme de gestion de MatchaTN\bin\Debug\System.Buffers.dll
+C:\Users\Yassine\Desktop\pfa\C# 2\Systéme de gestion de MatchaTN\Systéme de gestion de MatchaTN\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Yassine\Desktop\pfa\C# 2\Systéme de gestion de MatchaTN\Systéme de gestion de MatchaTN\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Yassine\Desktop\pfa\C# 2\Systéme de gestion de MatchaTN\Systéme de gestion de MatchaTN\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Yassine\Desktop\pfa\C# 2\Systéme de gestion de MatchaTN\Systéme de gestion de MatchaTN\bin\Debug\System.Memory.dll
+C:\Users\Yassine\Desktop\pfa\C# 2\Systéme de gestion de MatchaTN\Systéme de gestion de MatchaTN\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Yassine\Desktop\pfa\C# 2\Systéme de gestion de MatchaTN\Systéme de gestion de MatchaTN\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Yassine\Desktop\pfa\C# 2\Systéme de gestion de MatchaTN\Systéme de gestion de MatchaTN\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Yassine\Desktop\pfa\C# 2\Systéme de gestion de MatchaTN\Systéme de gestion de MatchaTN\bin\Debug\ZstdSharp.dll
+C:\Users\Yassine\Desktop\pfa\C# 2\Systéme de gestion de MatchaTN\Systéme de gestion de MatchaTN\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Yassine\Desktop\pfa\C# 2\Systéme de gestion de MatchaTN\Systéme de gestion de MatchaTN\bin\Debug\Google.Protobuf.pdb
+C:\Users\Yassine\Desktop\pfa\C# 2\Systéme de gestion de MatchaTN\Systéme de gestion de MatchaTN\bin\Debug\Google.Protobuf.xml
+C:\Users\Yassine\Desktop\pfa\C# 2\Systéme de gestion de MatchaTN\Systéme de gestion de MatchaTN\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Yassine\Desktop\pfa\C# 2\Systéme de gestion de MatchaTN\Systéme de gestion de MatchaTN\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Yassine\Desktop\pfa\C# 2\Systéme de gestion de MatchaTN\Systéme de gestion de MatchaTN\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Yassine\Desktop\pfa\C# 2\Systéme de gestion de MatchaTN\Systéme de gestion de MatchaTN\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Yassine\Desktop\pfa\C# 2\Systéme de gestion de MatchaTN\Systéme de gestion de MatchaTN\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Yassine\Desktop\pfa\C# 2\Systéme de gestion de MatchaTN\Systéme de gestion de MatchaTN\bin\Debug\MySql.Data.xml
+C:\Users\Yassine\Desktop\pfa\C# 2\Systéme de gestion de MatchaTN\Systéme de gestion de MatchaTN\bin\Debug\MySqlConnector.xml
+C:\Users\Yassine\Desktop\pfa\C# 2\Systéme de gestion de MatchaTN\Systéme de gestion de MatchaTN\bin\Debug\System.Buffers.xml
+C:\Users\Yassine\Desktop\pfa\C# 2\Systéme de gestion de MatchaTN\Systéme de gestion de MatchaTN\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Yassine\Desktop\pfa\C# 2\Systéme de gestion de MatchaTN\Systéme de gestion de MatchaTN\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Yassine\Desktop\pfa\C# 2\Systéme de gestion de MatchaTN\Systéme de gestion de MatchaTN\bin\Debug\System.Memory.xml
+C:\Users\Yassine\Desktop\pfa\C# 2\Systéme de gestion de MatchaTN\Systéme de gestion de MatchaTN\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Yassine\Desktop\pfa\C# 2\Systéme de gestion de MatchaTN\Systéme de gestion de MatchaTN\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Yassine\Desktop\pfa\C# 2\Systéme de gestion de MatchaTN\Systéme de gestion de MatchaTN\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Yassine\Desktop\pfa\C# 2\Systéme de gestion de MatchaTN\Systéme de gestion de MatchaTN\obj\Debug\Systéme .E010F315.Up2Date
+C:\Users\Yassine\Desktop\pfa\C# 2\Systéme de gestion de MatchaTN\Systéme de gestion de MatchaTN\obj\Debug\Systéme_de_gestion_de_MatchaTN.orders.resources
+C:\Users\Yassine\Desktop\pfa\C# 2\Systéme de gestion de MatchaTN\Systéme de gestion de MatchaTN\obj\Debug\Systéme_de_gestion_de_MatchaTN.utilisateur.resources
+C:\Users\Yassine\Desktop\pfa\C# 2\Systéme de gestion de MatchaTN\Systéme de gestion de MatchaTN\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Yassine\Desktop\pfa\C# 2\Systéme de gestion de MatchaTN\Systéme de gestion de MatchaTN\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Yassine\Desktop\pfa\C# 2\Systéme de gestion de MatchaTN\Systéme de gestion de MatchaTN\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Yassine\Desktop\pfa\C# 2\Systéme de gestion de MatchaTN\Systéme de gestion de MatchaTN\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Yassine\Desktop\pfa\C# 2\Systéme de gestion de MatchaTN\Systéme de gestion de MatchaTN\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Yassine\Desktop\pfa\C# 2\Systéme de gestion de MatchaTN\Systéme de gestion de MatchaTN\bin\Debug\NuGet.Frameworks.dll
+C:\Users\Yassine\Desktop\pfa\C# 2\Systéme de gestion de MatchaTN\Systéme de gestion de MatchaTN\obj\Debug\Systéme_de_gestion_de_MatchaTN.Sign_up.resources

@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yassine\\Desktop\\pfa\\C# 2\\Syst\u00E9me de gestion de MatchaTN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3800BDAC-E741-4D95-BBE7-6DB0BD2C9265}|Syst\u00E9me de gestion de MatchaTN\\Syst\u00E9me de gestion de MatchaTN.csproj|c:\\users\\yassine\\desktop\\pfa\\c# 2\\syst\u00E9me de gestion de matchatn\\syst\u00E9me de gestion de matchatn\\connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3800BDAC-E741-4D95-BBE7-6DB0BD2C9265}|Syst\u00E9me de gestion de MatchaTN\\Syst\u00E9me de gestion de MatchaTN.csproj|solutionrelative:syst\u00E9me de gestion de matchatn\\connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3800BDAC-E741-4D95-BBE7-6DB0BD2C9265}|Syst\u00E9me de gestion de MatchaTN\\Syst\u00E9me de gestion de MatchaTN.csproj|C:\\Users\\Yassine\\Desktop\\pfa\\C# 2\\Syst\u00E9me de gestion de MatchaTN\\syst\u00E9me de gestion de matchatn\\sign up.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3800BDAC-E741-4D95-BBE7-6DB0BD2C9265}|Syst\u00E9me de gestion de MatchaTN\\Syst\u00E9me de gestion de MatchaTN.csproj|solutionrelative:syst\u00E9me de gestion de matchatn\\sign up.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3800BDAC-E741-4D95-BBE7-6DB0BD2C9265}|Syst\u00E9me de gestion de MatchaTN\\Syst\u00E9me de gestion de MatchaTN.csproj|C:\\Users\\Yassine\\Desktop\\pfa\\C# 2\\Syst\u00E9me de gestion de MatchaTN\\syst\u00E9me de gestion de matchatn\\connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3800BDAC-E741-4D95-BBE7-6DB0BD2C9265}|Syst\u00E9me de gestion de MatchaTN\\Syst\u00E9me de gestion de MatchaTN.csproj|solutionrelative:syst\u00E9me de gestion de matchatn\\connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3800BDAC-E741-4D95-BBE7-6DB0BD2C9265}|Syst\u00E9me de gestion de MatchaTN\\Syst\u00E9me de gestion de MatchaTN.csproj|C:\\Users\\Yassine\\Desktop\\pfa\\C# 2\\Syst\u00E9me de gestion de MatchaTN\\syst\u00E9me de gestion de matchatn\\sign up.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3800BDAC-E741-4D95-BBE7-6DB0BD2C9265}|Syst\u00E9me de gestion de MatchaTN\\Syst\u00E9me de gestion de MatchaTN.csproj|solutionrelative:syst\u00E9me de gestion de matchatn\\sign up.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3800BDAC-E741-4D95-BBE7-6DB0BD2C9265}|Syst\u00E9me de gestion de MatchaTN\\Syst\u00E9me de gestion de MatchaTN.csproj|C:\\Users\\Yassine\\Desktop\\pfa\\C# 2\\Syst\u00E9me de gestion de MatchaTN\\syst\u00E9me de gestion de matchatn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3800BDAC-E741-4D95-BBE7-6DB0BD2C9265}|Syst\u00E9me de gestion de MatchaTN\\Syst\u00E9me de gestion de MatchaTN.csproj|solutionrelative:syst\u00E9me de gestion de matchatn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3800BDAC-E741-4D95-BBE7-6DB0BD2C9265}|Syst\u00E9me de gestion de MatchaTN\\Syst\u00E9me de gestion de MatchaTN.csproj|C:\\Users\\Yassine\\Desktop\\pfa\\C# 2\\Syst\u00E9me de gestion de MatchaTN\\syst\u00E9me de gestion de matchatn\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3800BDAC-E741-4D95-BBE7-6DB0BD2C9265}|Syst\u00E9me de gestion de MatchaTN\\Syst\u00E9me de gestion de MatchaTN.csproj|solutionrelative:syst\u00E9me de gestion de matchatn\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3800BDAC-E741-4D95-BBE7-6DB0BD2C9265}|Syst\u00E9me de gestion de MatchaTN\\Syst\u00E9me de gestion de MatchaTN.csproj|C:\\Users\\Yassine\\Desktop\\pfa\\C# 2\\Syst\u00E9me de gestion de MatchaTN\\syst\u00E9me de gestion de matchatn\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3800BDAC-E741-4D95-BBE7-6DB0BD2C9265}|Syst\u00E9me de gestion de MatchaTN\\Syst\u00E9me de gestion de MatchaTN.csproj|solutionrelative:syst\u00E9me de gestion de matchatn\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3800BDAC-E741-4D95-BBE7-6DB0BD2C9265}|Syst\u00E9me de gestion de MatchaTN\\Syst\u00E9me de gestion de MatchaTN.csproj|C:\\Users\\Yassine\\Desktop\\pfa\\C# 2\\Syst\u00E9me de gestion de MatchaTN\\syst\u00E9me de gestion de matchatn\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3800BDAC-E741-4D95-BBE7-6DB0BD2C9265}|Syst\u00E9me de gestion de MatchaTN\\Syst\u00E9me de gestion de MatchaTN.csproj|solutionrelative:syst\u00E9me de gestion de matchatn\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3800BDAC-E741-4D95-BBE7-6DB0BD2C9265}|Syst\u00E9me de gestion de MatchaTN\\Syst\u00E9me de gestion de MatchaTN.csproj|C:\\Users\\Yassine\\Desktop\\pfa\\C# 2\\Syst\u00E9me de gestion de MatchaTN\\syst\u00E9me de gestion de matchatn\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3800BDAC-E741-4D95-BBE7-6DB0BD2C9265}|Syst\u00E9me de gestion de MatchaTN\\Syst\u00E9me de gestion de MatchaTN.csproj|solutionrelative:syst\u00E9me de gestion de matchatn\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3800BDAC-E741-4D95-BBE7-6DB0BD2C9265}|Syst\u00E9me de gestion de MatchaTN\\Syst\u00E9me de gestion de MatchaTN.csproj|C:\\Users\\Yassine\\Desktop\\pfa\\C# 2\\Syst\u00E9me de gestion de MatchaTN\\syst\u00E9me de gestion de matchatn\\livreur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3800BDAC-E741-4D95-BBE7-6DB0BD2C9265}|Syst\u00E9me de gestion de MatchaTN\\Syst\u00E9me de gestion de MatchaTN.csproj|solutionrelative:syst\u00E9me de gestion de matchatn\\livreur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3800BDAC-E741-4D95-BBE7-6DB0BD2C9265}|Syst\u00E9me de gestion de MatchaTN\\Syst\u00E9me de gestion de MatchaTN.csproj|C:\\Users\\Yassine\\Desktop\\pfa\\C# 2\\Syst\u00E9me de gestion de MatchaTN\\syst\u00E9me de gestion de matchatn\\fournisseurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3800BDAC-E741-4D95-BBE7-6DB0BD2C9265}|Syst\u00E9me de gestion de MatchaTN\\Syst\u00E9me de gestion de MatchaTN.csproj|solutionrelative:syst\u00E9me de gestion de matchatn\\fournisseurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3800BDAC-E741-4D95-BBE7-6DB0BD2C9265}|Syst\u00E9me de gestion de MatchaTN\\Syst\u00E9me de gestion de MatchaTN.csproj|C:\\Users\\Yassine\\Desktop\\pfa\\C# 2\\Syst\u00E9me de gestion de MatchaTN\\syst\u00E9me de gestion de matchatn\\articles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3800BDAC-E741-4D95-BBE7-6DB0BD2C9265}|Syst\u00E9me de gestion de MatchaTN\\Syst\u00E9me de gestion de MatchaTN.csproj|solutionrelative:syst\u00E9me de gestion de matchatn\\articles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "utilisateur.cs",
+              "DocumentMoniker": "C:\\Users\\Yassine\\Desktop\\pfa\\C# 2\\Syst\u00E9me de gestion de MatchaTN\\Syst\u00E9me de gestion de MatchaTN\\utilisateur.cs",
+              "RelativeDocumentMoniker": "Syst\u00E9me de gestion de MatchaTN\\utilisateur.cs",
+              "ToolTip": "C:\\Users\\Yassine\\Desktop\\pfa\\C# 2\\Syst\u00E9me de gestion de MatchaTN\\Syst\u00E9me de gestion de MatchaTN\\utilisateur.cs",
+              "RelativeToolTip": "Syst\u00E9me de gestion de MatchaTN\\utilisateur.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAuwDAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T08:35:31.345Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "connexion.cs",
+              "DocumentMoniker": "C:\\Users\\Yassine\\Desktop\\pfa\\C# 2\\Syst\u00E9me de gestion de MatchaTN\\Syst\u00E9me de gestion de MatchaTN\\connexion.cs",
+              "RelativeDocumentMoniker": "Syst\u00E9me de gestion de MatchaTN\\connexion.cs",
+              "ToolTip": "C:\\Users\\Yassine\\Desktop\\pfa\\C# 2\\Syst\u00E9me de gestion de MatchaTN\\Syst\u00E9me de gestion de MatchaTN\\connexion.cs",
+              "RelativeToolTip": "Syst\u00E9me de gestion de MatchaTN\\connexion.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwDsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T18:17:14.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "connexion.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Yassine\\Desktop\\pfa\\C# 2\\Syst\u00E9me de gestion de MatchaTN\\Syst\u00E9me de gestion de MatchaTN\\connexion.cs",
+              "RelativeDocumentMoniker": "Syst\u00E9me de gestion de MatchaTN\\connexion.cs",
+              "ToolTip": "C:\\Users\\Yassine\\Desktop\\pfa\\C# 2\\Syst\u00E9me de gestion de MatchaTN\\Syst\u00E9me de gestion de MatchaTN\\connexion.cs [Design]",
+              "RelativeToolTip": "Syst\u00E9me de gestion de MatchaTN\\connexion.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T20:49:57.966Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sign up.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Yassine\\Desktop\\pfa\\C# 2\\Syst\u00E9me de gestion de MatchaTN\\Syst\u00E9me de gestion de MatchaTN\\Sign up.cs",
+              "RelativeDocumentMoniker": "Syst\u00E9me de gestion de MatchaTN\\Sign up.cs",
+              "ToolTip": "C:\\Users\\Yassine\\Desktop\\pfa\\C# 2\\Syst\u00E9me de gestion de MatchaTN\\Syst\u00E9me de gestion de MatchaTN\\Sign up.cs [Design]",
+              "RelativeToolTip": "Syst\u00E9me de gestion de MatchaTN\\Sign up.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T18:28:03.127Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "utilisateur.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Yassine\\Desktop\\pfa\\C# 2\\Syst\u00E9me de gestion de MatchaTN\\Syst\u00E9me de gestion de MatchaTN\\utilisateur.cs",
+              "RelativeDocumentMoniker": "Syst\u00E9me de gestion de MatchaTN\\utilisateur.cs",
+              "ToolTip": "C:\\Users\\Yassine\\Desktop\\pfa\\C# 2\\Syst\u00E9me de gestion de MatchaTN\\Syst\u00E9me de gestion de MatchaTN\\utilisateur.cs [Design]",
+              "RelativeToolTip": "Syst\u00E9me de gestion de MatchaTN\\utilisateur.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T19:32:15.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "functions.cs",
+              "DocumentMoniker": "C:\\Users\\Yassine\\Desktop\\pfa\\C# 2\\Syst\u00E9me de gestion de MatchaTN\\Syst\u00E9me de gestion de MatchaTN\\functions.cs",
+              "RelativeDocumentMoniker": "Syst\u00E9me de gestion de MatchaTN\\functions.cs",
+              "ToolTip": "C:\\Users\\Yassine\\Desktop\\pfa\\C# 2\\Syst\u00E9me de gestion de MatchaTN\\Syst\u00E9me de gestion de MatchaTN\\functions.cs",
+              "RelativeToolTip": "Syst\u00E9me de gestion de MatchaTN\\functions.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwCMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T21:32:32.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "orders.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Yassine\\Desktop\\pfa\\C# 2\\Syst\u00E9me de gestion de MatchaTN\\Syst\u00E9me de gestion de MatchaTN\\orders.cs",
+              "RelativeDocumentMoniker": "Syst\u00E9me de gestion de MatchaTN\\orders.cs",
+              "ToolTip": "C:\\Users\\Yassine\\Desktop\\pfa\\C# 2\\Syst\u00E9me de gestion de MatchaTN\\Syst\u00E9me de gestion de MatchaTN\\orders.cs [Design]",
+              "RelativeToolTip": "Syst\u00E9me de gestion de MatchaTN\\orders.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T18:50:36.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "livreur.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Yassine\\Desktop\\pfa\\C# 2\\Syst\u00E9me de gestion de MatchaTN\\Syst\u00E9me de gestion de MatchaTN\\livreur.cs",
+              "RelativeDocumentMoniker": "Syst\u00E9me de gestion de MatchaTN\\livreur.cs",
+              "ToolTip": "C:\\Users\\Yassine\\Desktop\\pfa\\C# 2\\Syst\u00E9me de gestion de MatchaTN\\Syst\u00E9me de gestion de MatchaTN\\livreur.cs [Design]",
+              "RelativeToolTip": "Syst\u00E9me de gestion de MatchaTN\\livreur.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T18:53:16.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Fournisseurs.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Yassine\\Desktop\\pfa\\C# 2\\Syst\u00E9me de gestion de MatchaTN\\Syst\u00E9me de gestion de MatchaTN\\Fournisseurs.cs",
+              "RelativeDocumentMoniker": "Syst\u00E9me de gestion de MatchaTN\\Fournisseurs.cs",
+              "ToolTip": "C:\\Users\\Yassine\\Desktop\\pfa\\C# 2\\Syst\u00E9me de gestion de MatchaTN\\Syst\u00E9me de gestion de MatchaTN\\Fournisseurs.cs [Design]",
+              "RelativeToolTip": "Syst\u00E9me de gestion de MatchaTN\\Fournisseurs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T18:17:49.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yassine\\Desktop\\pfa\\C# 2\\Syst\u00E9me de gestion de MatchaTN\\Syst\u00E9me de gestion de MatchaTN\\Program.cs",
+              "RelativeDocumentMoniker": "Syst\u00E9me de gestion de MatchaTN\\Program.cs",
+              "ToolTip": "C:\\Users\\Yassine\\Desktop\\pfa\\C# 2\\Syst\u00E9me de gestion de MatchaTN\\Syst\u00E9me de gestion de MatchaTN\\Program.cs",
+              "RelativeToolTip": "Syst\u00E9me de gestion de MatchaTN\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T17:55:08.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sign up.cs",
+              "DocumentMoniker": "C:\\Users\\Yassine\\Desktop\\pfa\\C# 2\\Syst\u00E9me de gestion de MatchaTN\\Syst\u00E9me de gestion de MatchaTN\\Sign up.cs",
+              "RelativeDocumentMoniker": "Syst\u00E9me de gestion de MatchaTN\\Sign up.cs",
+              "ToolTip": "C:\\Users\\Yassine\\Desktop\\pfa\\C# 2\\Syst\u00E9me de gestion de MatchaTN\\Syst\u00E9me de gestion de MatchaTN\\Sign up.cs",
+              "RelativeToolTip": "Syst\u00E9me de gestion de MatchaTN\\Sign up.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAEwE8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T18:48:18.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Articles.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Yassine\\Desktop\\pfa\\C# 2\\Syst\u00E9me de gestion de MatchaTN\\Syst\u00E9me de gestion de MatchaTN\\Articles.cs",
+              "RelativeDocumentMoniker": "Syst\u00E9me de gestion de MatchaTN\\Articles.cs",
+              "ToolTip": "C:\\Users\\Yassine\\Desktop\\pfa\\C# 2\\Syst\u00E9me de gestion de MatchaTN\\Syst\u00E9me de gestion de MatchaTN\\Articles.cs [Design]",
+              "RelativeToolTip": "Syst\u00E9me de gestion de MatchaTN\\Articles.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T17:48:13.572Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
